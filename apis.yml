@@ -36,7 +36,7 @@ x-enrichment-note: >-
   all developer/link-property/well-known paths return 404. No OpenAPI, no
   developer portal, no docs, no /.well-known, no llms.txt, no webhook/event
   surface. Identity fields enriched only; no artifact families were applicable.
-specificationVersion: '0.20'
+specificationVersion: '0.23'
 created: '2026-07-17'
 modified: '2026-07-17'
 tags:
